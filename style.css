@@ -1,6 +1,8 @@
 body{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url('https://i.pcmag.com/imagery/lineupitems/037Gml7gXXsjz1BdLXfOiPe.fit_lim.size_1050x578.v1569505914.jpg');
+    background-size:cover;
 }
 
 div{
